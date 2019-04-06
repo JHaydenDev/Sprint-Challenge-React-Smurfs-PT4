@@ -43,7 +43,7 @@ class App extends Component {
             Home
           </NavLink>
           <NavLink className="nav-item" to="/smurf-form">
-            create smurf
+            Create Smurf
           </NavLink>
         </div>
         <Route
